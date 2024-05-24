@@ -1,4 +1,4 @@
-# Windows Environment Variables
+# Windows Environment Variables Cheat Sheet
 
 | Variable | Description |
 | --- | --- |
