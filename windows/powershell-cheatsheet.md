@@ -1,4 +1,4 @@
-# PowerShell Cheatsheet
+# PowerShell Cheat Sheet
 
 ## File Management
 
