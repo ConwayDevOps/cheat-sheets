@@ -9,3 +9,19 @@ In Ubuntu 22.04 this is due to a change that was made to the needrestart command
 **Edit File**
 
 `nano /etc/needrestart/needrestart.conf`
+
+**Locate and change line**
+
+`#$nrconf{restart} = 'i';`
+
+To one of the following:
+
+| Vaule | description |
+| --- | --- |
+| `#$nrconf{restart} = 'a';` | To have services auto restart |
+
+or
+
+| Vaule | description |
+| --- | --- |
+| `#$nrconf{restart} = 'l';` | To list services that require restart |
