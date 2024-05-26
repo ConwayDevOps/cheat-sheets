@@ -10,4 +10,4 @@
 
 | Command | Description |
 | --- | --- |
-| `$ sudo usermod -aG wheel username` | Give user sudo privileges |
+| `$ sudo usermod -aG wheel <username>` | Give user sudo privileges |
