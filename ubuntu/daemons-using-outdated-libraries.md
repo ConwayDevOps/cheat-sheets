@@ -7,4 +7,4 @@ In Ubuntu 22.04 this is due to a change that was made to the needrestart command
 ## Remove the message
 
 Edit File
-'nano /etc/needrestart/needrestart.conf'
+`nano /etc/needrestart/needrestart.conf`
