@@ -1,12 +1,12 @@
 # SQLite Cheat Sheet
 
-## Connect to SQLite
+### Connect to SQLite
 
 | Command | Description |
 | --- | --- |
 | `sqlite3 <db>` | Connect to a SQLite database |
 
-## SQLite CLI Commands
+### SQLite CLI Commands
 
 | Command | Description |
 | --- | --- |
@@ -19,7 +19,7 @@
 | `.shell <command` | Run a shell command |
 | `.exit` | Quit SQLite |
 
-## Backup and Restore
+### Backup and Restore
 
 | Command | Description |
 | --- | --- |
